@@ -1,3 +1,7 @@
+# .gitignore
+target/
+*.iml
+.idea/
+*.log
+*.class
 
-# Project exclude paths
-/target/
